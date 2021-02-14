@@ -4,8 +4,12 @@
   
   body {
     /* background: #2d2013; */
-    /* background-image: url("back-img.jpg");
-    background-repeat: no-repeat, repeat; */
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190904/pngtree-seamless-monochrome-pattern-fastfood-image_313760.jpg");
+    background-repeat: no-repeat, repeat;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    height: 100%;
     color: #fff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
